@@ -45,6 +45,6 @@ python download_data.py
 
 ## **Launch App**
 streamlit run app.py
-link : http://localhost:8501/
+LIVE DEMO : https://drive.google.com/drive/folders/1kp5nd73IWqvP_CKqUKwNajThj0tTmyLX?usp=sharing
 
 
